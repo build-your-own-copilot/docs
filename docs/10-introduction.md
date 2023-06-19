@@ -7,7 +7,7 @@ description: "🏭 Learn how to build a new patient registration system using Az
 ---
 
 :::danger
-THIS WORKSHOP AND IS IN DEVELOPMENT AND NOT READY FOR USE.
+THIS WORKSHOP IS IN DEVELOPMENT AND NOT READY FOR USE.
 COME BACK END JULY ~ AUGUST 2023
 :::
 
