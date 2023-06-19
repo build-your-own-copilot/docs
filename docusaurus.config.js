@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Build your own Copilot with Azure OpenAI Services",
-  tagline: "Build your own Copilot with Azure OpenAI Services Workshop",
+  title: "Build your own Copilot with Azure OpenAI Services and Vector Databases",
+  tagline: "Build your own Copilot with Azure OpenAI Services and Vector Databases Workshop",
 
   url: "https://build-your-own-copilot.github.io/",
   baseUrl: "/docs/",
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Build your own Copilot with Azure OpenAI Services",
+        title: "Build your own Copilot with Azure OpenAI Services and Vector Databases",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.png",
@@ -67,7 +67,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} Build your own Copilot with Azure OpenAI Services Workshop. Docs built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Build your own Copilot with Azure OpenAI Services and Vector Databases Workshop. Docs built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
