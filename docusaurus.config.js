@@ -9,7 +9,7 @@ const config = {
   title: "New Patient Registration Demo",
   tagline: "New Patient Registration Azure Form Recognizer Workshop",
 
-  url: "https://patiente2e.github.io/",
+  url: "https://build-your-own-copilot.github.io/",
   baseUrl: "/docs/",
 
   onBrokenLinks: "throw",
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "newpatiente2e", // Usually your GitHub org/user name.
+  organizationName: "build-your-own-copilot", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
 
   deploymentBranch: "gh-pages", // Branch that GitHub pages will deploy from.
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/newpatiente2e/docs/tree/main",
+          editUrl: "https://github.com/build-your-own-copilot/docs/tree/main",
         },
         blog: false,
         theme: {

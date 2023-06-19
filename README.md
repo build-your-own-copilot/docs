@@ -2,7 +2,7 @@
 
 ## Docs published on GitHub Pages
 
-Docs are published on [GitHub Pages](https://newpatiente2e.github.io/docs)
+Docs are published on [GitHub Pages](https://build-your-own-copilot.github.io/docs)
 
 ## Docusaurus
 
