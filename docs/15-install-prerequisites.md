@@ -10,7 +10,7 @@ You'll need a computer with a 64-bit operating system. The labs have been tested
 
 ## An Azure Subscription
 
-An active Azure account. If you don't have one, you can create a [free account](https://azure.microsoft.com/free/cognitive-services/?WT.mc_id=aiml-77396-cxa). If you are a student, you can also get a [free account](https://azure.microsoft.com/free/students/?WT.mc_id=aiml-77396-cxa) without a credit card.
+An active Azure account. If you don't have one, you can create a [free account](https://azure.microsoft.com/free/cognitive-services/?WT.mc_id=aiml-99397-cxa). If you are a student, you can also get a [free account](https://azure.microsoft.com/free/students/?WT.mc_id=aiml-99397-cxa) without a credit card.
 
 
 ## Build your own Copilot with Azure OpenAI Plugins and a Vector Database
@@ -18,7 +18,7 @@ An active Azure account. If you don't have one, you can create a [free account](
 
 ## Introduction to the Azure Developer CLI
 
-This workshop uses the [Azure Developer CLI](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview?tabs=nodejs&WT.mc_id=aiml-77396-cxa) to simplify the creation, management, and deletion of Azure services.
+This workshop uses the [Azure Developer CLI](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview?tabs=nodejs&WT.mc_id=aiml-99397-cxa) to simplify the creation, management, and deletion of Azure services.
 
 ``
 

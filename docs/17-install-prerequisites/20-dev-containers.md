@@ -5,7 +5,7 @@ pagination_next: create-azure-services
 
 # Docker Dev Containers
 
-If you can run Docker locally, you can open the workshop using [VS Code Dev Containers](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=aiml-77396-cxa). Dev Containers ensures you have all the developer tools installed and configured correctly for the workshop.
+If you can run Docker locally, you can open the workshop using [VS Code Dev Containers](https://code.visualstudio.com/docs/remote/containers?WT.mc_id=aiml-99397-cxa). Dev Containers ensures you have all the developer tools installed and configured correctly for the workshop.
 
 Install the following:
 
@@ -13,24 +13,24 @@ Install the following:
    - [Windows](https://docs.docker.com/docker-for-windows/install/)
    - [macOS](https://docs.docker.com/docker-for-mac/install/)
    - [Linux](https://docs.docker.com/engine/install/)
-1. [VS Code](https://code.visualstudio.com/?WT.mc_id=aiml-77396-cxa)
-1. [VS Code Remote Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers&WT.mc_id=aiml-77396-cxa)
+1. [VS Code](https://code.visualstudio.com/?WT.mc_id=aiml-99397-cxa)
+1. [VS Code Remote Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers&WT.mc_id=aiml-99397-cxa)
 1. The [git](https://git-scm.com/) client.
 
 ## Install the development tools
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=aiml-77396-cxa).
+1. Install [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=aiml-99397-cxa).
 
     :::tip
 
-    For chromebooks, review [learning with VS Code on Chromebooks](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started?WT.mc_id=aiml-77396-cxa)
+    For chromebooks, review [learning with VS Code on Chromebooks](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started?WT.mc_id=aiml-99397-cxa)
 
     :::
 
 ## Clone the workshop repository
 
 1. Open VS Code.
-1. Install the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers&WT.mc_id=aiml-77396-cxa) extension.
+1. Install the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers&WT.mc_id=aiml-99397-cxa) extension.
 1. Select **Clone Git Repository**.
 
     ![The image shows hwo to select clone a repo](img/clone_repository.png)

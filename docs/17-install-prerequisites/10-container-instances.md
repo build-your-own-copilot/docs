@@ -5,21 +5,21 @@ pagination_next: create-azure-services
 
 # Azure Container Instance
 
-If you can't use GitHub Codespaces or run Docker on your machine, you can use a [Developer Container Instance](https://azure.microsoft.com/products/container-instances?WT.mc_id=aiml-77396-cxa) to use for the workshop. We'll be connecting to the container instance using VS Code Remote SSH.
+If you can't use GitHub Codespaces or run Docker on your machine, you can use a [Developer Container Instance](https://azure.microsoft.com/products/container-instances?WT.mc_id=aiml-99397-cxa) to use for the workshop. We'll be connecting to the container instance using VS Code Remote SSH.
 
 ## Install the development tools
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=aiml-77396-cxa).
+1. Install [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=aiml-99397-cxa).
 
     :::tip
 
-    For chromebooks, review [learning with VS Code on Chromebooks](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started?WT.mc_id=aiml-77396-cxa)
+    For chromebooks, review [learning with VS Code on Chromebooks](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started?WT.mc_id=aiml-99397-cxa)
 
     :::
 
 ## Sign in to Azure and start the Azure Cloud Shell
 
-1. Sign in to the [Azure portal](https://portal.azure.com/?WT.mc_id=aiml-77396-cxa) using your Azure account.
+1. Sign in to the [Azure portal](https://portal.azure.com/?WT.mc_id=aiml-99397-cxa) using your Azure account.
 1. Start the Azure Cloud Shell by clicking the **Cloud Shell** button in the Azure portal.
     ![The image shows the cloud shell](./img/cloud_shell.png)
 1. You may be prompted to create a storage account. If so, select **Create storage**.
