@@ -28,13 +28,11 @@ Build your own Azure OpenAI Copilot with your own data workshop. Learn how
     hashtag=""
 />
 
-## Workshop problem statement
+
+## Introduction to Azure OpenAI Plugins and Vector Databases 
 
 
 ## Workshop goals
-
-
-## Introduction to Azure OpenAI Plugins and Vector Databases 
 
 
 ## Workshop outline
