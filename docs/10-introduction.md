@@ -6,6 +6,11 @@ image: https://build-your-own-copilot.github.io/docs/assets/images/registration_
 description: "🏭 Learn how to build a new patient registration system using Azure Form Recognizer"
 ---
 
+:::danger
+THIS WORKSHOP AND IS IN DEVELOPMENT AND NOT READY FOR USE.
+COME BACK END JULY ~ AUGUST 2023
+:::
+
 import Social from '@site/src/components/social';
 
 # Workshop Introduction
@@ -35,10 +40,4 @@ Build your own Azure OpenAI Copilot with your own data workshop. Learn how
 ## Workshop outline
 
 
-
 ## Solution overview
-
-
-<!-- ## Architecture
-
-![The image shows the architecture of the solution](../static/img/architecture.png) -->
