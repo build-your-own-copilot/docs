@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "New Patient Registration Demo",
-  tagline: "New Patient Registration Azure Form Recognizer Workshop",
+  title: "Build your own Copilot with Azure OpenAI Services",
+  tagline: "Build your own Copilot with Azure OpenAI Services Workshop",
 
   url: "https://build-your-own-copilot.github.io/",
   baseUrl: "/docs/",
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "New Patient Registration with Azure Form Recognizer",
+        title: "Build your own Copilot with Azure OpenAI Services",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.png",
@@ -67,7 +67,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} New Patient Form Recognizer Workshop. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Build your own Copilot with Azure OpenAI Services Workshop. Docs built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -77,7 +77,7 @@ const config = {
 
       /* Clarity Config */
       clarity: {
-        ID: "gxgduo9nnr", 
+        ID: "hm7i8qsa4i", 
       }
 
     }),
